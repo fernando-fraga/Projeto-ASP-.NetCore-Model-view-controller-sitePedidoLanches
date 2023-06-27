@@ -1,0 +1,26 @@
+﻿@model Lanche
+
+<div class="col-sm-6 col-md-4 col-lg-3 mb-4">
+    <div class="h-100 card">
+        <div class="align-self-center">
+            <p><img src="@Model.ImagemUrl" style="height:150px;width:150px"></p>
+        </div>
+
+        <div class="card-body ">
+            <h4 class="card-title ">
+                <a asp-controller="Lanche" asp-action="Details" asp-route-lancheId="@Model.LancheId">@Model.Nome</a>
+            </h4>
+            <h5 class="card-subtitle mb-2 text-muted">Preco: @Model.Preco.ToString("c")</h5>
+            <hr />
+
+            <p class="card-text-bot ">@Model.DescricaoCurta</p>
+        </div>
+
+
+        <div class="card-footer">
+            <a class="btn btn-primary" id="cartButton" asp-controller="CarrinhoCompra"
+               asp-action="AdicionarItemNoCarrinhoCompra" asp-route-LancheId="@Model.LancheId">Incluir no Carrinho</a>
+        </div>
+
+    </div>
+</div>
