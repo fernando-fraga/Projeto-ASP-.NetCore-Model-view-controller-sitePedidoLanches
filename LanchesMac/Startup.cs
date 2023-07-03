@@ -1,4 +1,5 @@
-﻿using LanchesMac.Context;
+﻿using LanchesMac.Areas.Admin.Servicos;
+using LanchesMac.Context;
 using LanchesMac.Models;
 using LanchesMac.Repositories;
 using LanchesMac.Repositories.Interfaces;
@@ -26,7 +27,8 @@ public class Startup
         services.AddIdentity<IdentityUser, IdentityRole>()
                 .AddEntityFrameworkStores<AppDbContext>()
                 .AddDefaultTokenProviders();
-
+        services.Configure<ConfigurationImagens>(Configuration.GetSection("ConfigurationPastaImagens"));
+            
 
         services.Configure<IdentityOptions>(options =>              //Configurações de LOGIN pelo Identity
          {
@@ -45,6 +47,8 @@ public class Startup
         services.AddTransient<ICategoriaRepository, CategoriaRepository>();
         services.AddTransient<IPedidoRepository, PedidoRepository>();
         services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
+
+        services.AddScoped<RelatorioVendasService>();        //Serviço para gerar relatorio de vendas
 
         services.AddAuthorization(options =>            //Adiciona a Politica de Autorizaçao por perfil ADMIN que será usada na autorização da controller Admin na Area 
         {

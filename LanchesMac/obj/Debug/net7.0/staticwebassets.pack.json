@@ -69,6 +69,14 @@
       "PackagePath": "staticwebassets\\images\\remover.png"
     },
     {
+      "Id": "C:\\Users\\TREE\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\upload.png",
+      "PackagePath": "staticwebassets\\images\\upload.png"
+    },
+    {
+      "Id": "C:\\Users\\TREE\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\visualizar.png",
+      "PackagePath": "staticwebassets\\images\\visualizar.png"
+    },
+    {
       "Id": "C:\\Users\\TREE\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

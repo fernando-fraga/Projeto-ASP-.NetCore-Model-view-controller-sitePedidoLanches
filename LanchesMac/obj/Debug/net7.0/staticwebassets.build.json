@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4frOUwAchlXGAe8nBtAMFqYkDRbiWhmGftGrHxEXZ/k=",
+  "Hash": "GM/z4j9tK+4cVS2nu/Rtq4BTal0fxq9H6PkF+OsWDKc=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -321,6 +321,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\remover.png"
+    },
+    {
+      "Identity": "C:\\Users\\TREE\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\upload.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TREE\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/upload.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\upload.png"
+    },
+    {
+      "Identity": "C:\\Users\\TREE\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\visualizar.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TREE\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/visualizar.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\visualizar.png"
     },
     {
       "Identity": "C:\\Users\\TREE\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\js\\site.js",
