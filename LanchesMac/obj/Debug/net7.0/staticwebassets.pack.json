@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
     },
     {
+      "Id": "C:\\Users\\TREE\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\logo - Copia.png",
+      "PackagePath": "staticwebassets\\images\\produtos\\logo - Copia.png"
+    },
+    {
       "Id": "C:\\Users\\TREE\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\remover.png",
       "PackagePath": "staticwebassets\\images\\remover.png"
     },

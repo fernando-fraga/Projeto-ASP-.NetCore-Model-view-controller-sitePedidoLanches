@@ -12,7 +12,5 @@ namespace LanchesMac.Models
 
         public string PathImagesProduto { get; set; }
 
-
-
     }
 }
