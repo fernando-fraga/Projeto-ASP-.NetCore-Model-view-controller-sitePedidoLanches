@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m7xgNSE12rpt6iBRDKJuJ0xwLFPx8Lw13urQJx4pwd8=",
+  "Hash": "GM/z4j9tK+4cVS2nu/Rtq4BTal0fxq9H6PkF+OsWDKc=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -304,23 +304,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\phone-app-icon.png"
-    },
-    {
-      "Identity": "C:\\Users\\TREE\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\logo - Copia.png",
-      "SourceId": "LanchesMac",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TREE\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\",
-      "BasePath": "_content/LanchesMac",
-      "RelativePath": "images/produtos/logo - Copia.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\produtos\\logo - Copia.png"
     },
     {
       "Identity": "C:\\Users\\TREE\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\remover.png",

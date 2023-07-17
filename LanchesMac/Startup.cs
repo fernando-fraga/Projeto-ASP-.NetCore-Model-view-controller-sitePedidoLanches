@@ -49,6 +49,7 @@ public class Startup
         services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
 
         services.AddScoped<RelatorioVendasService>();        //Serviço para gerar relatorio de vendas
+        services.AddScoped<GraficoVendasService>();         //Servico para gerar gráficos de vendas
 
         services.AddAuthorization(options =>            //Adiciona a Politica de Autorizaçao por perfil ADMIN que será usada na autorização da controller Admin na Area 
         {

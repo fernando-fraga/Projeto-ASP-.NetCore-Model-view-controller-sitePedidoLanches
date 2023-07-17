@@ -553,3 +553,7 @@ C:\Users\TREE\source\repos\LanchesMac\LanchesMac\bin\Debug\net7.0\refs\WindowsBa
 C:\Users\TREE\source\repos\LanchesMac\LanchesMac\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\TREE\source\repos\LanchesMac\LanchesMac\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\TREE\source\repos\LanchesMac\LanchesMac\bin\Debug\net7.0\ReflectionIT.Mvc.Paging.dll
+C:\Users\TREE\source\repos\LanchesMac\LanchesMac\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TREE\source\repos\LanchesMac\LanchesMac\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TREE\source\repos\LanchesMac\LanchesMac\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TREE\source\repos\LanchesMac\LanchesMac\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
